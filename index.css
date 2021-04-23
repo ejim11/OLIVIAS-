@@ -696,7 +696,7 @@ line-height: 36px;
 letter-spacing: 0.245em;
 text-align: center;
 background-color: #F2E9E4;
-margin-top: 0.5rem;
+padding-top: 0.5rem;
 }
 /*copyright on desktop*/
 @media all and (min-width:1280px){
